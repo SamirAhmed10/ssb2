@@ -1,0 +1,27 @@
+h3{
+	color:white;
+	background-color:black;
+	font-size: 40px; 
+}
+h1{
+	border: 5px red;
+}
+.background{
+	background-color: green;
+	border: 5px;
+}
+.border{
+	border: dashed;
+}
+#color{
+	color: red;
+}
+#font{
+	font-size: 50px;
+}
+div{
+	width: 10rem;
+	height: 100px;
+	background-color: #ff00bc;
+	color: rgb(228,255,0,.5);
+}
